@@ -1,6 +1,6 @@
 {
-"name"=test
-"description"=testing 
-"repository"=https://github.com/vaibhavchellani/api.laragist.org
-
+"name":"test",
+"description":"testing ",
+"repository":"https://github.com/vaibhavchellani/api.laragist.org",
+"image":"lamp"
 }
